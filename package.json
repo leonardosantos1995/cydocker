@@ -1,0 +1,15 @@
+{
+    "name": "my-project",
+    "version": "1.0.0",
+    "description": "My first Cypress project",
+    "main": "cypress/integration/index.spec.js",
+    "scripts": {
+        "start": "cypress open"
+    },
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {
+        "cypress": "12.14.0",
+        "moment": "^2.29.4"
+    }
+}
