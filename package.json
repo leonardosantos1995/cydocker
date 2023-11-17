@@ -10,6 +10,7 @@
     "license": "MIT",
     "dependencies": {
         "cypress": "12.14.0",
-        "moment": "^2.29.4"
+        "moment": "^2.29.4",
+        "uuid": "^9.0.1"
     }
 }
